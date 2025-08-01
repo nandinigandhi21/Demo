@@ -1,4 +1,4 @@
 # Demo
 This is Demo Repo for learning.
 <br>
-Author - Nandini
+Author - Nandini Gandhi
